@@ -1,0 +1,8 @@
+# Configuracion exclusiva de mi local repository
+config/config.local.php
+
+
+# Archivos de log
+logs/
+temp/
+*.log
